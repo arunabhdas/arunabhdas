@@ -6,6 +6,9 @@
 - 💬 Ask me about [Cavabien](https://github.com/arunabhdas/cavabien)
 - 📫 How to reach me: [Twitter](https://twitter.com/dasmachinelabs)
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=arunabhdas&theme=radical)
+
+
 ### Languages and Technologies:
 <p>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -32,4 +35,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=arunabhdas&theme=radical)
