@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [Cavabien](https://github.com/arunabhdas/cavabien)
 - 🌱 I’m the official maintainer of [Tabler](https://github.com/tabler/tabler-angular)
-- 👯 I’m looking to collaborate on [Tabler](https://github.com/tabler/tabler-angular)
+- 👯 I’m looking to collaborate on [Tabler](https://github.com/arunabhdas/cnctr)
 - 🤔 I’m looking for help with [Tabler](https://github.com/tabler/tabler-angular)
 - 💬 Ask me about [Tabler](https://github.com/tabler/tabler-angular)
 - 📫 How to reach me: [Twitter](https://twitter.com/dasmachinelabs)
