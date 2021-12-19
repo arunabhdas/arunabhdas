@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [Cnctr](https://github.com/arunabhdas/cnctr-stack)
-- 🌱 I’m the official maintainer of [Tabler](https://github.com/tabler/tabler-angular)
+- 🌱 I’m the official maintainer of [Tabler](https://github.com/arunabhdas/cnctr-dev)
 - 👯 I’m looking to collaborate on [Cnctr](https://github.com/arunabhdas/cnctr)
 - 🤔 I’m looking for help with [Tabler](https://github.com/tabler/tabler-angular)
 - 💬 Ask me about [Cavabien](https://github.com/arunabhdas/cavabien)
