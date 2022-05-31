@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on [Cnctr Framework](https://github.com/arunabhdas/cnctr)
 - 🤔 I’m looking for help with [Tabler](https://github.com/tabler/tabler-angular)
 - 💬 Ask me about [Cavabien](https://github.com/arunabhdas/cavabien)
+- 💬 Ask me about [Vivaldi](https://github.com/arunabhdas/vivaldi)
 - 📫 How to reach me: [Twitter](https://twitter.com/dasmachinelabs)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=arunabhdas&theme=radical)
