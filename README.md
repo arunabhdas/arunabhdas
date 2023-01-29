@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I just worked on [E8Lattice](https://github.com/arunabhdas/E8Lattice)
 - 🔭 I just worked on [NextMachina](https://github.com/arunabhdas/NextMachina)
 - 🔭 I just worked on [DataScienceStack](https://github.com/arunabhdas/DataScienceStack)
 - 🔭 I just worked on [Unicorn](https://github.com/arunabhdas/unicorn-android)
