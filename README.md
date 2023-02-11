@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I just worked on [Unicorn-AI](https://github.com/arunabhdas/unicorn-ai)
 - 🔭 I just worked on [UnicornVideo](https://github.com/arunabhdas/unicornvideo)
 - 🔭 I just worked on [UnicornStack](https://github.com/arunabhdas/unicornstack)
 - 🔭 I just worked on [E8Lattice](https://github.com/arunabhdas/E8Lattice)
