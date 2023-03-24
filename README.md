@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡ Official maintainer of [tabler](https://github.com/tabler/tabler-angular)
-- 🔭 I just worked on [FAPS-stack](https://github.com/arunabhdas/FAPS-stack)
+- 🔭 I just worked on [SNAP-stack](https://github.com/arunabhdas/SNAP-stack)
 - 🔭 I just worked on [UnicornAI](https://github.com/arunabhdas/unicorn-ai)
 - 🔭 I just worked on [UnicornOps](https://github.com/arunabhdas/unicorn-ops)
 - 🔭 I just worked on [UnicornCommerce](https://github.com/arunabhdas/unicorn-commerce)
