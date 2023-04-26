@@ -5,6 +5,7 @@
 - 🔭 I just worked on [UnicornAI](https://github.com/arunabhdas/unicorn-ai)
 - 🔭 I just worked on [UnicornOps](https://github.com/arunabhdas/unicorn-ops)
 - 🔭 I just worked on [UnicornCommerce](https://github.com/arunabhdas/unicorn-commerce)
+- 🔭 I just worked on [UnicornApp](https://github.com/arunabhdas/unicornapp)
 - 🔭 I just worked on [JetpackApp](https://github.com/arunabhdas/jetpackapp)
 - 🔭 I just worked on [UnicornVideo](https://github.com/arunabhdas/unicornvideo)
 - 🔭 I just worked on [UnicornStack](https://github.com/arunabhdas/unicornstack)
