@@ -2,6 +2,7 @@
 
 - ⚡ Official maintainer of [tabler](https://github.com/tabler/tabler-angular)
 - ⚡ BDFL of [OpenLibreAI](https://github.com/OpenLibreAI)
+- ⚡ Official maintainer of [Unicorn iOS](https://github.com/arunabhdas/unicorn-ios)
 - ⚡ Official maintainer of [AndroidGPT](https://github.com/arunabhdas/AndroidGPT)
 - ⚡ Official maintainer of [Unicorn Desktop](https://github.com/arunabhdas/unicorn-desktop)
 - ⚡ Official maintainer of [UnicornCRM](https://github.com/arunabhdas/unicorn-crm)
