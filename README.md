@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ⚡ Official maintainer of [tabler](https://github.com/tabler/tabler-angular)
-- - ⚡ Official maintainer of [TokamakAI](https://github.com/arunabhdas/TokamakAI)
+- ⚡ Official maintainer of [TokamakAI](https://github.com/arunabhdas/TokamakAI)
 - ⚡ BDFL of [OpenLibreAI](https://github.com/OpenLibreAI)
 - ⚡ Official maintainer of [SwiftUI-SideMenu](https://github.com/arunabhdas/swiftui-sidemenu)
 - ⚡ Official maintainer of [Unicorn Android](https://github.com/arunabhdas/unicorn-android)
