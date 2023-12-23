@@ -1,4 +1,4 @@
-### Hi there 👋
+### Am an experienced developer focused on great user experiences and quality apps. 👋
 
 - ⚡ Official maintainer of [tabler](https://github.com/tabler/tabler-angular)
 - ⚡ Official creator of [TokamakAI](https://github.com/arunabhdas/TokamakAI)
