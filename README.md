@@ -32,7 +32,7 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/dasmachinelabs)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=arunabhdas&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=arunabhdas&theme=radical&hide_rank=true)
 
 
 ### Languages and Technologies:
