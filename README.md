@@ -1,7 +1,7 @@
 ### Am an experienced developer focused on great user experiences and quality apps. 👋
 
 - ⚡ Official maintainer of [tabler](https://github.com/tabler/tabler-angular)
-- ⚡ Official creator of [UnicornKMP](https://github.com/arunabhdas/UnicornKMP)
+- ⚡ Official creator of [UnicornCRM](https://github.com/arunabhdas/UnicornCRM)
 - ⚡ Official creator of [TokamakAI](https://github.com/arunabhdas/TokamakAI)
 - ⚡ BDFL of [OpenLibreAI](https://github.com/OpenLibreAI)
 - ⚡ Official creator of [SwiftUI-SideMenu](https://github.com/arunabhdas/swiftui-sidemenu)
