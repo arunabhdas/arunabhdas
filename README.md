@@ -3,6 +3,7 @@
 - ⚡ Official maintainer of [tabler](https://github.com/tabler/tabler-angular)
 - ⚡ Official creator of [UnicornCRM](https://github.com/arunabhdas/UnicornCRM)
 - ⚡ Official creator of [TokamakAI](https://github.com/arunabhdas/TokamakAI)
+- ⚡ Official creator of [Lithium](https://github.com/arunabhdas/Lithium)
 - ⚡ BDFL of [OpenLibreAI](https://github.com/OpenLibreAI)
 - ⚡ Official creator of [SwiftUI-SideMenu](https://github.com/arunabhdas/swiftui-sidemenu)
 - ⚡ Official creator of [Unicorn Android](https://github.com/arunabhdas/unicorn-android)
