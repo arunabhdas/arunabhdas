@@ -1,4 +1,4 @@
-### Am an experienced developer focused on great user experiences and quality apps. 👋
+### Am an experienced developer focused on building amazing apps. 👋
 
 - ⚡ Official maintainer of [tabler](https://github.com/tabler/tabler-angular)
 - ⚡ Official creator of [UnicornCRM](https://github.com/arunabhdas/UnicornCRM)
