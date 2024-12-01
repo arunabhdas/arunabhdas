@@ -1,6 +1,7 @@
 ### Experienced developer focused on building amazing apps. 👋
 
 - ⚡ Official maintainer of [tabler](https://github.com/tabler/tabler-angular)
+- ⚡ Official creator of [E2EStack](https://github.com/arunabhdas/E2EStack)
 - ⚡ Official maintainer of [PolyDeno](https://github.com/arunabhdas/PolyDeno)
 - ⚡ Official maintainer of [osscom](https://github.com/arunabhdas/osscom)
 - ⚡ Official creator of [UnicornCRM](https://github.com/arunabhdas/UnicornCRM)
