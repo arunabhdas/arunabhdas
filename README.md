@@ -1,10 +1,11 @@
 ### Experienced developer focused on building amazing apps. 👋
 
 - ⚡ Official maintainer of [tabler](https://github.com/tabler/tabler-angular)
-- ⚡ Official maintainer of [Paradigmatic](https://github.com/arunabhdas/Paradigmatic)
+- ⚡ Official creator of [Mezzanine](https://github.com/arunabhdas/Mezzanine)
+- ⚡ Official creator of [Paradigmatic](https://github.com/arunabhdas/Paradigmatic)
 - ⚡ Official creator of [E2EStack](https://github.com/arunabhdas/E2EStack)
-- ⚡ Official maintainer of [PolyDeno](https://github.com/arunabhdas/PolyDeno)
-- ⚡ Official maintainer of [osscom](https://github.com/arunabhdas/osscom)
+- ⚡ Official creator of [PolyDeno](https://github.com/arunabhdas/PolyDeno)
+- ⚡ Official creator of [osscom](https://github.com/arunabhdas/osscom)
 - ⚡ Official creator of [UnicornCRM](https://github.com/arunabhdas/UnicornCRM)
 - ⚡ Official creator of [TokamakAI](https://github.com/arunabhdas/TokamakAI)
 - ⚡ Official creator of [Lithium](https://github.com/arunabhdas/Lithium)
