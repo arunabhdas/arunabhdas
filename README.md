@@ -1,7 +1,7 @@
 ### Experienced developer focused on building amazing apps. 👋
 
 - ⚡ Official maintainer of [tabler](https://github.com/tabler/tabler-angular)
-- ⚡ Official creator of [Mezzanine](https://github.com/arunabhdas/Mezzanine)
+
 - ⚡ Official creator of [Paradigmatic](https://github.com/arunabhdas/Paradigmatic)
 - ⚡ Official creator of [E2EStack](https://github.com/arunabhdas/E2EStack)
 - ⚡ Official creator of [PolyDeno](https://github.com/arunabhdas/PolyDeno)
@@ -33,6 +33,7 @@
 - 🔭 Official creator of [Cnctr Stack](https://github.com/arunabhdas/cnctr-stack)
 - 🌱 Official creator of [Cnctr Dev](https://github.com/arunabhdas/cnctr-dev)
 - 👯 Official creator of [Cnctr Framework](https://github.com/arunabhdas/cnctr)
+- ⚡ Official creator of [Mezzanine](https://github.com/arunabhdas/Mezzanine)
 - 🤔 I’m looking for help with [Tabler](https://github.com/tabler/tabler-angular)
 - 💬 Ask me about [Cavabien](https://github.com/arunabhdas/cavabien)
 - 💬 Ask me about [Vivaldi](https://github.com/arunabhdas/vivaldi)
