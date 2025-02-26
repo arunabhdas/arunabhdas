@@ -6,6 +6,7 @@
 - ⚡ Official creator of [E2EStack](https://github.com/arunabhdas/E2EStack)
 - ⚡ Official creator of [PolyDeno](https://github.com/arunabhdas/PolyDeno)
 - ⚡ Official creator of [osscom](https://github.com/arunabhdas/osscom)
+- ⚡ [Unicorn-CRM](https://github.com/arunabhdas/unicorn-crm)
 - ⚡ Official creator of [UnicornCRM](https://github.com/arunabhdas/UnicornCRM)
 - ⚡ Official creator of [TokamakAI](https://github.com/arunabhdas/TokamakAI)
 - ⚡ Official creator of [Lithium](https://github.com/arunabhdas/Lithium)
