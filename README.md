@@ -3,7 +3,7 @@
 
 
 - ⚡ Official maintainer of [tabler](https://github.com/tabler/tabler-angular)
-
+- ⚡ Official developer of [AgentFrameworkKit](https://github.com/arunabhdas/AgentFrameworkKit)
 - ⚡ Official developer of [Paradigmatic](https://github.com/arunabhdas/Paradigmatic)
 - ⚡ Official developer of [E2EStack](https://github.com/arunabhdas/E2EStack)
 - ⚡ Official developer of [PolyDeno](https://github.com/arunabhdas/PolyDeno)
