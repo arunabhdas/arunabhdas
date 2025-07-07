@@ -47,7 +47,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=arunabhdas&theme=radical&hide_rank=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunabhdas&hide=css,scss,javascript,html&langs_count=10&layout=compact)](https://github.com/arunabhdas/github-readme-stats)
+
 
 ### Languages and Technologies:
 <p>
