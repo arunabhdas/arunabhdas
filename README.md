@@ -1,4 +1,4 @@
-### Experienced developer focused on building amazing apps. 👋
+### Experienced software engineer focused on building amazing apps. 👋
 
 
 
