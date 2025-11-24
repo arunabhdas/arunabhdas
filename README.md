@@ -3,7 +3,6 @@
 
 
 - ⚡ Official maintainer of [tabler](https://github.com/tabler/tabler-angular)
-- ⚡ Official developer of [NanoHertz](https://github.com/arunabhdas/nanohertz)
 - ⚡ Official developer of [AgentZero](https://github.com/arunabhdas/AgentZero)
 - ⚡ Official developer of [AgentFrameworkKit](https://github.com/arunabhdas/AgentFrameworkKit)
 - ⚡ Official developer of [Paradigm](https://github.com/arunabhdas/Paradigmatic)
@@ -40,6 +39,7 @@
 - 🌱 Official developer of [Cnctr Dev](https://github.com/arunabhdas/cnctr-dev)
 - 👯 Official developer of [Cnctr Framework](https://github.com/arunabhdas/cnctr)
 - ⚡ Official developer of [Mezzanine](https://github.com/arunabhdas/Mezzanine)
+- ⚡ Official developer of [NanoHertz](https://github.com/arunabhdas/nanohertz)
 - 🤔 I’m looking for help with [Tabler](https://github.com/tabler/tabler-angular)
 - 💬 Ask me about [Cavabien](https://github.com/arunabhdas/cavabien)
 - 💬 Ask me about [Vivaldi](https://github.com/arunabhdas/vivaldi)
