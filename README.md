@@ -1,7 +1,7 @@
 ### Experienced software engineer focused on building amazing apps. 👋
 
-
-- ⚡ Official maintainer of [NextStepAI](https://github.com/arunabhdas/NextStepAI)
+- ⚡ Official developer of [Skills](https://github.com/arunabhdas/skills)
+- ⚡ Official developer of [NextStepAI](https://github.com/arunabhdas/NextStepAI)
 - ⚡ Official maintainer of [tabler](https://github.com/tabler/tabler-angular)
 - ⚡ Official developer of [AgentZero](https://github.com/arunabhdas/AgentZero)
 - ⚡ Official developer of [AgentFrameworkKit](https://github.com/arunabhdas/AgentFrameworkKit)
