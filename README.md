@@ -1,5 +1,6 @@
 ### Experienced software engineer focused on building amazing apps. 👋
 
+- ⚡ Official developer of [Polymatic](https://github.com/arunabhdas/polymatic)
 - ⚡ Official developer of [Skills](https://github.com/arunabhdas/skills)
 - ⚡ Official developer of [NextStepAI](https://github.com/arunabhdas/NextStepAI)
 - ⚡ Official maintainer of [tabler](https://github.com/tabler/tabler-angular)
