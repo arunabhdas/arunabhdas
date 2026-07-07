@@ -1,13 +1,6 @@
-<div align="center">
 
-<!-- Profile Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=arunabhdas&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/arunabhdas?style=for-the-badge&color=0d1117&labelColor=161b22&label=Followers&logo=github)
-![Stars](https://img.shields.io/github/stars/arunabhdas?style=for-the-badge&color=0d1117&labelColor=161b22&label=Total+Stars&logo=github)
 
-</div>
-
-### Experienced software engineer focused on building amazing apps. 👋
+### Experienced software engineer focused on building amazing software. 👋
 
 - ⚡ Official developer of [MyTermTUI](https://github.com/offsideAI/mytermtui)
 - ⚡ Official developer of [Polymatic](https://github.com/arunabhdas/polymatic)
@@ -87,3 +80,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+
+<!-- Profile Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=arunabhdas&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/arunabhdas?style=for-the-badge&color=0d1117&labelColor=161b22&label=Followers&logo=github)
+![Stars](https://img.shields.io/github/stars/arunabhdas?style=for-the-badge&color=0d1117&labelColor=161b22&label=Total+Stars&logo=github)
+
+</div>
