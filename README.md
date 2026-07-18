@@ -3,6 +3,7 @@
 ### Experienced software engineer focused on building amazing software. 👋
 
 - ⚡ Official developer of [MyTermTUI](https://github.com/offsideAI/mytermtui)
+- ⚡ Official developer of [AWS TUI](https://github.com/arunabhdas/aws-tui)
 - ⚡ Official developer of [Polymatic](https://github.com/arunabhdas/polymatic)
 - ⚡ Official developer of [Skills](https://github.com/arunabhdas/skills)
 - ⚡ Official developer of [NextStepAI](https://github.com/arunabhdas/NextStepAI)
