@@ -1,7 +1,7 @@
 
 
 ### Experienced software engineer focused on building amazing software. 👋
-
+- ⚡ Maintainer of [Tabler](https://github.com/tabler/tabler-angular)
 - ⚡ Official developer of [MyCloud](https://github.com/arunabhdas/mycloud)
 - ⚡ Official developer of [MyTermTUI](https://github.com/offsideAI/mytermtui)
 - ⚡ Official developer of [AWS TUI](https://github.com/arunabhdas/aws-tui)
