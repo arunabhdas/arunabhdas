@@ -76,6 +76,7 @@ Here are some ideas to get you started:
 ![Followers](https://img.shields.io/github/followers/arunabhdas?style=for-the-badge&color=0d1117&labelColor=161b22&label=Followers&logo=github)
 ![Stars](https://img.shields.io/github/stars/arunabhdas?style=for-the-badge&color=0d1117&labelColor=161b22&label=Total+Stars&logo=github)
 
+</div>
 
 <!-- Appendix -->
 
