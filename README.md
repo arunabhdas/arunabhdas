@@ -67,10 +67,41 @@
 <!--
 **arunabhdas/arunabhdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+### Senior Software Engineer — iOS, SwiftUI, Kotlin, AI-native Engineer
+
+I design and ship production software across mobile, backend and
+AI-enabled systems, with a focus on architecture, reliability,
+performance and end-to-end ownership.
+
+**Core:** Swift · SwiftUI · Kotlin/KMP · Python · FastAPI ·
+TypeScript · React · PostgreSQL · AWS
+
+### Selected engineering work
+
+🌐 **PolyMatic** — Real-time geospatial intelligence platform
+   React · TypeScript · FastAPI · WebSockets · Cesium · PostGIS
+
+☁️ **MyCloud** — macOS/iCloud storage management CLI/TUI
+   Installable through Homebrew
+
+🤖 **Paradigm** — Privacy-focused agentic operations platform
+   Kotlin Multiplatform · iOS · Android · Agents
+
+📱 **Mobile Architecture** — Native iOS reference architecture
+   SwiftUI · Swift Concurrency · modular architecture · CI/CD
+
+### Engineering footprint
+
+- 14.5K Stack Overflow reputation
+- 2.6M developers reached
+- Maintainer of Tabler Angular
+- Open-source systems across mobile, AI and developer tooling
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ![Tabler](https://github.com/tabler/tabler-angular)
-- 🌱 I’m the official maintainer of ![Tabler](https://github.com/tabler/tabler-angular)
+- 🔭 I’m currently working on [Tabler](https://github.com/tabler/tabler-angular)
+- 🌱 I’m the official maintainer of [Tabler](https://github.com/tabler/tabler-angular)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
